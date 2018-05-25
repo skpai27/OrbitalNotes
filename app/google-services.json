@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "505914294628",
+    "firebase_url": "https://orbitalnotes2.firebaseio.com",
+    "project_id": "orbitalnotes2",
+    "storage_bucket": "orbitalnotes2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505914294628:android:9f4a530de75e56ff",
+        "android_client_info": {
+          "package_name": "com.example.user.orbitalnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505914294628-l4np927g6okc0jo22pa57mj3ocv7mq4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.orbitalnotes",
+            "certificate_hash": "38537aed39d1fac797a586ad24f0f1d5587842b1"
+          }
+        },
+        {
+          "client_id": "505914294628-utqph48nqhf04npi1f7gqa60gdh4kna5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "505914294628-utqph48nqhf04npi1f7gqa60gdh4kna5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwMQiJ_ImYQTAKJw7vcO0faDQdN3GlBtQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505914294628-utqph48nqhf04npi1f7gqa60gdh4kna5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
