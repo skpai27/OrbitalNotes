@@ -6,4 +6,19 @@
         android:title="Logout"
         app:showAsAction="always"
         />
+    <item
+        android:id="@+id/boom"
+        android:title="Boom"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/what"
+        android:title="Logout"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/huh"
+        android:title="Boom"
+        app:showAsAction="always"
+        />
 </menu>

@@ -24,8 +24,9 @@
         <activity
             android:name=".LoginActivity"
             android:label="@string/title_activity_login" />
-        <activity android:name=".LogInActivity" />
-        <activity android:name=".SignupActivity"></activity>
+        <activity android:name=".SignupActivity" />
+        <activity android:name=".AddNoteActivity" />
+        <activity android:name=".EditNoteActivity"></activity>
     </application>
 
 </manifest>
